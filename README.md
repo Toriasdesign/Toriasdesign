@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Toriasdesign 
-- 👀 I’m interested in contributing to open source 
-- 🌱 I’m currently learning UX/UI design 
+- 👀 I’m an open source contributor
+- 🌱 I’m a product designer
+- I'm an Accessibility advocate
 - 💞️ I’m looking to collaborate on  a product design project
 - 📫 How to reach me ;
  Twitter : https://twitter.com/Toriasdesign?s=09
