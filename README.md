@@ -12,6 +12,8 @@ LINKEDIN : https://www.linkedin.com/in/victoria-ottah-7294481ba
 
 Email: Victoriaottahn@gmail.com 
 
+Blog: https://toriannenna-blog.medium.com/
+
 <!---
 Toriasdesign/Toriasdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
