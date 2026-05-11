@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Toriasdesign 
 - 👀 I’m an open source maintainer
+- I am an Author
 - 🌱 I’m a UX designer
 - I'm an Accessibility advocate
 - 💞️ I’m looking to collaborate on Accessibility Audits and a11y Design implementations
